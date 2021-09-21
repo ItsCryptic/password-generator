@@ -1,4 +1,4 @@
 # password-generator
 Simple python password generator
 
-* Requires Python [Python](https://www.python.org/)
+* Requires [Python](https://www.python.org/)
